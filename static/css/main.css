@@ -1,0 +1,18 @@
+p{
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+}
+.tips{
+	color: red;
+	font-size: 12px;
+	text-align: left;
+}
+.MarginT_5{
+	margin-top: 5px !important;
+}
+.MarginT_10{
+	margin-top: 10px !important;
+}
+.van-tabbar-item--active{
+	color: cadetblue !important;
+}
