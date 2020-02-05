@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.19.2",
     "js-sha1": "^0.6.0",
     "vant": "^1.4.2",
     "vue": "^2.5.2",
